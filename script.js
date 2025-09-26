@@ -48,6 +48,7 @@ document.addEventListener('DOMContentLoaded', () => {
     const fourth_no = document.querySelector('.fourth_no');
 
     fourth_yes.addEventListener("click", () => {
+        document.getElementById('fourth').style.display = 'none';
         document.getElementById('fifth').style.visibility = 'visible';
     });
 });
