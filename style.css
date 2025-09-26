@@ -153,7 +153,7 @@ body {
 }
 .message-1{
     display: block;
-    color: rgb(225, 82, 10);
+    color: rgb(11,116,11);
     text-shadow: 2px 2px 10px yellow;
     font-size: 30px;
     font-weight: 900;
@@ -177,3 +177,4 @@ body {
     transition: all ease-in-out 1.5s;
     visibility: hidden;
 }
+
